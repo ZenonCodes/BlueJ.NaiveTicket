@@ -61,7 +61,7 @@ Does it matter whether we write<br>
 or<br>
 `class public TicketMachine`<br>
 in the outer wrapper of a class?
-	Yes, it matters.
+	 #####  - Yes, it matters.
 * Edit the source of the `TicketMachine` class to make the change and then close the editor window.
 	* Do you notice a change in the class diagram?
 	* What error message do you get when you now press the compile button?
